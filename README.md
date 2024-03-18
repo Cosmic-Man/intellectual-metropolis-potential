@@ -18,10 +18,6 @@
 
 ```source venv/bin/activate```
 
-5. Установка зависимостей
-
-```pip3 install -r requirements.txt```
-
 ## Запуск и использование
 
 ```python3 (номер_задачи).py```
