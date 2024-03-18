@@ -6,7 +6,7 @@
    
 ```git clone https://github.com/Cosmic-Man/intellectual-metropolis-potential.git```
    
-3. Переход в директорию intellectual-metropolis-potential
+2. Переход в директорию intellectual-metropolis-potential
 
 ```cd intellectual-metropolis-potential```
 
